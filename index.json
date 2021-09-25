@@ -1,0 +1,1112 @@
+[
+    {
+        "name": "Afghanistan",
+        "flag": "https://mahando.com/Flags/af.png",
+        "number": "+93"
+    },
+    {
+        "name": "Albania",
+        "flag": "https://mahando.com/Flags/al.png",
+        "number": "+355"
+    },
+    {
+        "name": "Algeria",
+        "flag": "https://mahando.com/Flags/dz.png",
+        "number": "+213"
+    },
+    {
+        "name": "Andorra",
+        "flag": "https://mahando.com/Flags/ad.png",
+        "number": "+376"
+    },
+    {
+        "name": "Angola",
+        "flag": "https://mahando.com/Flags/ao.png",
+        "number": "+244"
+    },
+    {
+        "name": "Anguilla",
+        "flag": "https://mahando.com/Flags/ai.png",
+        "number": "+1264"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "flag": "https://mahando.com/Flags/ag.png",
+        "number": "+1268"
+    },
+    {
+        "name": "Argentina",
+        "flag": "https://mahando.com/Flags/ar.png",
+        "number": "+54"
+    },
+    {
+        "name": "Armenia",
+        "flag": "https://mahando.com/Flags/am.png",
+        "number": "+374"
+    },
+    {
+        "name": "Aruba",
+        "flag": "https://mahando.com/Flags/aw.png",
+        "number": "+297"
+    },
+    {
+        "name": "Australia",
+        "flag": "https://mahando.com/Flags/au.png",
+        "number": "+61"
+    },
+    {
+        "name": "Austria",
+        "flag": "https://mahando.com/Flags/at.png",
+        "number": "+43"
+    },
+    {
+        "name": "Azerbaijan",
+        "flag": "https://mahando.com/Flags/az.png",
+        "number": "+994"
+    },
+    {
+        "name": "Bahamas",
+        "flag": "https://mahando.com/Flags/bs.png",
+        "number": "+1242"
+    },
+    {
+        "name": "Bahrain",
+        "flag": "https://mahando.com/Flags/bh.png",
+        "number": "+973"
+    },
+    {
+        "name": "Bangladesh",
+        "flag": "https://mahando.com/Flags/bd.png",
+        "number": "+880"
+    },
+    {
+        "name": "Barbados",
+        "flag": "https://mahando.com/Flags/bb.png",
+        "number": "+1246"
+    },
+    {
+        "name": "Belarus",
+        "flag": "https://mahando.com/Flags/by.png",
+        "number": "+375"
+    },
+    {
+        "name": "Belgium",
+        "flag": "https://mahando.com/Flags/be.png",
+        "number": "+32"
+    },
+    {
+        "name": "Belize",
+        "flag": "https://mahando.com/Flags/bz.png",
+        "number": "+501"
+    },
+    {
+        "name": "Benin",
+        "flag": "https://mahando.com/Flags/bj.png",
+        "number": "+229"
+    },
+    {
+        "name": "Bermuda",
+        "flag": "https://mahando.com/Flags/bm.png",
+        "number": "+1441"
+    },
+    {
+        "name": "Bhutan",
+        "flag": "https://mahando.com/Flags/bt.png",
+        "number": "+975"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "flag": "https://mahando.com/Flags/ba.png",
+        "number": "+387"
+    },
+    {
+        "name": "Botswana",
+        "flag": "https://mahando.com/Flags/bw.png",
+        "number": "+267"
+    },
+    {
+        "name": "Bouvet Island",
+        "flag": "https://mahando.com/Flags/bv.png",
+        "number": "+55"
+    },
+    {
+        "name": "Brazil",
+        "flag": "https://mahando.com/Flags/br.png",
+        "number": "+55"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "flag": "https://mahando.com/Flags/io.png",
+        "number": "+246"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "flag": "https://mahando.com/Flags/bn.png",
+        "number": "+673"
+    },
+    {
+        "name": "Bulgaria",
+        "flag": "https://mahando.com/Flags/bg.png",
+        "number": "+359"
+    },
+    {
+        "name": "Burkina Faso",
+        "flag": "https://mahando.com/Flags/bf.png",
+        "number": "+226"
+    },
+    {
+        "name": "Burundi",
+        "flag": "https://mahando.com/Flags/bi.png",
+        "number": "+257"
+    },
+    {
+        "name": "Cambodia",
+        "flag": "https://mahando.com/Flags/kh.png",
+        "number": "+855"
+    },
+    {
+        "name": "Cameroon",
+        "flag": "https://mahando.com/Flags/cm.png",
+        "number": "+237"
+    },
+    {
+        "name": "Canada",
+        "flag": "https://mahando.com/Flags/ca.png",
+        "number": "+1"
+    },
+    {
+        "name": "Cape Verde",
+        "flag": "https://mahando.com/Flags/cv.png",
+        "number": "+238"
+    },
+    {
+        "name": "Cayman Islands",
+        "flag": "https://mahando.com/Flags/ky.png",
+        "number": "+1345"
+    },
+    {
+        "name": "Central African Republic",
+        "flag": "https://mahando.com/Flags/cf.png",
+        "number": "+236"
+    },
+    {
+        "name": "Chad",
+        "flag": "https://mahando.com/Flags/td.png",
+        "number": "+235"
+    },
+    {
+        "name": "Chile",
+        "flag": "https://mahando.com/Flags/cl.png",
+        "number": "+56"
+    },
+    {
+        "name": "China",
+        "flag": "https://mahando.com/Flags/cn.png",
+        "number": "+86"
+    },
+    {
+        "name": "Christmas Island",
+        "flag": "https://mahando.com/Flags/cx.png",
+        "number": "+61"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "flag": "https://mahando.com/Flags/cc.png",
+        "number": "+61"
+    },
+    {
+        "name": "Colombia",
+        "flag": "https://mahando.com/Flags/co.png",
+        "number": "+57"
+    },
+    {
+        "name": "Comoros",
+        "flag": "https://mahando.com/Flags/km.png",
+        "number": "+269"
+    },
+    {
+        "name": "Congo",
+        "flag": "https://mahando.com/Flags/cd.png",
+        "number": "+242"
+    },
+    {
+        "name": "Cook Islands",
+        "flag": "https://mahando.com/Flags/ck.png",
+        "number": "+682"
+    },
+    {
+        "name": "Costa Rica",
+        "flag": "https://mahando.com/Flags/cr.png",
+        "number": "+506"
+    },
+    {
+        "name": "Croatia",
+        "flag": "https://mahando.com/Flags/hr.png",
+        "number": "+385"
+    },
+    {
+        "name": "Cuba",
+        "flag": "https://mahando.com/Flags/cu.png",
+        "number": "+53"
+    },
+    {
+        "name": "Cyprus",
+        "flag": "https://mahando.com/Flags/cy.png",
+        "number": "+357"
+    },
+    {
+        "name": "Czech Republic",
+        "flag": "https://mahando.com/Flags/cz.png",
+        "number": "+420"
+    },
+    {
+        "name": "Denmark",
+        "flag": "https://mahando.com/Flags/dk.png",
+        "number": "+45"
+    },
+    {
+        "name": "Djibouti",
+        "flag": "https://mahando.com/Flags/dj.png",
+        "number": "+253"
+    },
+    {
+        "name": "Dominica",
+        "flag": "https://mahando.com/Flags/dm.png",
+        "number": "+1767"
+    },
+    {
+        "name": "Dominican Republic",
+        "flag": "https://mahando.com/Flags/do.png",
+        "number": "+1849"
+    },
+    {
+        "name": "Ecuador",
+        "flag": "https://mahando.com/Flags/ec.png",
+        "number": "+593"
+    },
+    {
+        "name": "Egypt",
+        "flag": "https://mahando.com/Flags/eg.png",
+        "number": "+20"
+    },
+    {
+        "name": "El Salvador",
+        "flag": "https://mahando.com/Flags/sv.png",
+        "number": "+503"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "flag": "https://mahando.com/Flags/gq.png",
+        "number": "+240"
+    },
+    {
+        "name": "Eritrea",
+        "flag": "https://mahando.com/Flags/er.png",
+        "number": "+291"
+    },
+    {
+        "name": "Estonia",
+        "flag": "https://mahando.com/Flags/ee.png",
+        "number": "+372"
+    },
+    {
+        "name": "Ethiopia",
+        "flag": "https://mahando.com/Flags/et.png",
+        "number": "+251"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "flag": "https://mahando.com/Flags/fk.png",
+        "number": "+500"
+    },
+    {
+        "name": "Faroe Islands",
+        "flag": "https://mahando.com/Flags/fo.png",
+        "number": "+298"
+    },
+    {
+        "name": "Fiji",
+        "flag": "https://mahando.com/Flags/fj.png",
+        "number": "+679"
+    },
+    {
+        "name": "Finland",
+        "flag": "https://mahando.com/Flags/fi.png",
+        "number": "+358"
+    },
+    {
+        "name": "France",
+        "flag": "https://mahando.com/Flags/fr.png",
+        "number": "+33"
+    },
+    {
+        "name": "French Guiana",
+        "flag": "https://mahando.com/Flags/gf.png",
+        "number": "+594"
+    },
+    {
+        "name": "French Polynesia",
+        "flag": "https://mahando.com/Flags/pf.png",
+        "number": "+689"
+    },
+    {
+        "name": "Gabon",
+        "flag": "https://mahando.com/Flags/ga.png",
+        "number": "+241"
+    },
+    {
+        "name": "Gambia",
+        "flag": "https://mahando.com/Flags/gm.png",
+        "number": "+220"
+    },
+    {
+        "name": "Georgia",
+        "flag": "https://mahando.com/Flags/ge.png",
+        "number": "+995"
+    },
+    {
+        "name": "Germany",
+        "flag": "https://mahando.com/Flags/de.png",
+        "number": "+49"
+    },
+    {
+        "name": "Ghana",
+        "flag": "https://mahando.com/Flags/gh.png",
+        "number": "+233"
+    },
+    {
+        "name": "Gibraltar",
+        "flag": "https://mahando.com/Flags/gi.png",
+        "number": "+350"
+    },
+    {
+        "name": "Greece",
+        "flag": "https://mahando.com/Flags/gr.png",
+        "number": "+30"
+    },
+    {
+        "name": "Greenland",
+        "flag": "https://mahando.com/Flags/gl.png",
+        "number": "+299"
+    },
+    {
+        "name": "Grenada",
+        "flag": "https://mahando.com/Flags/gd.png",
+        "number": "+1473"
+    },
+    {
+        "name": "Guadeloupe",
+        "flag": "https://mahando.com/Flags/gp.png",
+        "number": "+590"
+    },
+    {
+        "name": "Guam",
+        "flag": "https://mahando.com/Flags/gu.png",
+        "number": "+1671"
+    },
+    {
+        "name": "Guatemala",
+        "flag": "https://mahando.com/Flags/gt.png",
+        "number": "+502"
+    },
+    {
+        "name": "Guernsey",
+        "flag": "https://mahando.com/Flags/gg.png",
+        "number": "+44"
+    },
+    {
+        "name": "Guinea",
+        "flag": "https://mahando.com/Flags/gn.png",
+        "number": "+224"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "flag": "https://mahando.com/Flags/gw.png",
+        "number": "+245"
+    },
+    {
+        "name": "Guyana",
+        "flag": "https://mahando.com/Flags/gy.png",
+        "number": "+592"
+    },
+    {
+        "name": "Haiti",
+        "flag": "https://mahando.com/Flags/ht.png",
+        "number": "+509"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "flag": "https://mahando.com/Flags/hm.png",
+        "number": "+672"
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "flag": "https://mahando.com/Flags/va.png",
+        "number": "+379"
+    },
+    {
+        "name": "Honduras",
+        "flag": "https://mahando.com/Flags/hn.png",
+        "number": "+504"
+    },
+    {
+        "name": "Hong Kong",
+        "flag": "https://mahando.com/Flags/hk.png",
+        "number": "+852"
+    },
+    {
+        "name": "Hungary",
+        "flag": "https://mahando.com/Flags/hu.png",
+        "number": "+36"
+    },
+    {
+        "name": "Iceland",
+        "flag": "https://mahando.com/Flags/is.png",
+        "number": "+354"
+    },
+    {
+        "name": "India",
+        "flag": "https://mahando.com/Flags/in.png",
+        "number": "+91"
+    },
+    {
+        "name": "Indonesia",
+        "flag": "https://mahando.com/Flags/id.png",
+        "number": "+62"
+    },
+    {
+        "name": "Iran",
+        "flag": "https://mahando.com/Flags/ir.png",
+        "number": "+98"
+    },
+    {
+        "name": "Iraq",
+        "flag": "https://mahando.com/Flags/iq.png",
+        "number": "+964"
+    },
+    {
+        "name": "Ireland",
+        "flag": "https://mahando.com/Flags/ie.png",
+        "number": "+353"
+    },
+    {
+        "name": "Isle of Man",
+        "flag": "https://mahando.com/Flags/im.png",
+        "number": "+44"
+    },
+    {
+        "name": "Israel",
+        "flag": "https://mahando.com/Flags/il.png",
+        "number": "+972"
+    },
+    {
+        "name": "Italy",
+        "flag": "https://mahando.com/Flags/it.png",
+        "number": "+39"
+    },
+    {
+        "name": "Jamaica",
+        "flag": "https://mahando.com/Flags/jm.png",
+        "number": "+1876"
+    },
+    {
+        "name": "Japan",
+        "flag": "https://mahando.com/Flags/jp.png",
+        "number": "+81"
+    },
+    {
+        "name": "Jersey",
+        "flag": "https://mahando.com/Flags/je.png",
+        "number": "+44"
+    },
+    {
+        "name": "Jordan",
+        "flag": "https://mahando.com/Flags/jo.png",
+        "number": "+962"
+    },
+    {
+        "name": "Kazakhstan",
+        "flag": "https://mahando.com/Flags/kz.png",
+        "number": "+7"
+    },
+    {
+        "name": "Kenya",
+        "flag": "https://mahando.com/Flags/ke.png",
+        "number": "+254"
+    },
+    {
+        "name": "Kiribati",
+        "flag": "https://mahando.com/Flags/ki.png",
+        "number": "+686"
+    },
+    {
+        "name": "Kuwait",
+        "flag": "https://mahando.com/Flags/kw.png",
+        "number": "+965"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "flag": "https://mahando.com/Flags/kg.png",
+        "number": "+996"
+    },
+    {
+        "name": "Lao People's Democratic Republic",
+        "flag": "https://mahando.com/Flags/la.png",
+        "number": "+856"
+    },
+    {
+        "name": "Latvia",
+        "flag": "https://mahando.com/Flags/lv.png",
+        "number": "+371"
+    },
+    {
+        "name": "Lebanon",
+        "flag": "https://mahando.com/Flags/lb.png",
+        "number": "+961"
+    },
+    {
+        "name": "Lesotho",
+        "flag": "https://mahando.com/Flags/ls.png",
+        "number": "+266"
+    },
+    {
+        "name": "Liberia",
+        "flag": "https://mahando.com/Flags/lr.png",
+        "number": "+231"
+    },
+    {
+        "name": "Liechtenstein",
+        "flag": "https://mahando.com/Flags/li.png",
+        "number": "+423"
+    },
+    {
+        "name": "Lithuania",
+        "flag": "https://mahando.com/Flags/lt.png",
+        "number": "+370"
+    },
+    {
+        "name": "Luxembourg",
+        "flag": "https://mahando.com/Flags/lu.png",
+        "number": "+352"
+    },
+    {
+        "name": "Macao",
+        "flag": "https://mahando.com/Flags/mo.png",
+        "number": "+853"
+    },
+    {
+        "name": "Madagascar",
+        "flag": "https://mahando.com/Flags/mg.png",
+        "number": "+261"
+    },
+    {
+        "name": "Malawi",
+        "flag": "https://mahando.com/Flags/mw.png",
+        "number": "+265"
+    },
+    {
+        "name": "Malaysia",
+        "flag": "https://mahando.com/Flags/my.png",
+        "number": "+60"
+    },
+    {
+        "name": "Maldives",
+        "flag": "https://mahando.com/Flags/mv.png",
+        "number": "+960"
+    },
+    {
+        "name": "Mali",
+        "flag": "https://mahando.com/Flags/ml.png",
+        "number": "+223"
+    },
+    {
+        "name": "Malta",
+        "flag": "https://mahando.com/Flags/mt.png",
+        "number": "+356"
+    },
+    {
+        "name": "Marshall Islands",
+        "flag": "https://mahando.com/Flags/mh.png",
+        "number": "+692"
+    },
+    {
+        "name": "Martinique",
+        "flag": "https://mahando.com/Flags/mq.png",
+        "number": "+596"
+    },
+    {
+        "name": "Mauritania",
+        "flag": "https://mahando.com/Flags/mr.png",
+        "number": "+222"
+    },
+    {
+        "name": "Mauritius",
+        "flag": "https://mahando.com/Flags/mu.png",
+        "number": "+230"
+    },
+    {
+        "name": "Mayotte",
+        "flag": "https://mahando.com/Flags/yt.png",
+        "number": "+262"
+    },
+    {
+        "name": "Mexico",
+        "flag": "https://mahando.com/Flags/mx.png",
+        "number": "+52"
+    },
+    {
+        "name": "Monaco",
+        "flag": "https://mahando.com/Flags/mc.png",
+        "number": "+377"
+    },
+    {
+        "name": "Mongolia",
+        "flag": "https://mahando.com/Flags/mn.png",
+        "number": "+976"
+    },
+    {
+        "name": "Montenegro",
+        "flag": "https://mahando.com/Flags/me.png",
+        "number": "+382"
+    },
+    {
+        "name": "Montserrat",
+        "flag": "https://mahando.com/Flags/ms.png",
+        "number": "+1664"
+    },
+    {
+        "name": "Morocco",
+        "flag": "https://mahando.com/Flags/ma.png",
+        "number": "+212"
+    },
+    {
+        "name": "Mozambique",
+        "flag": "https://mahando.com/Flags/mz.png",
+        "number": "+258"
+    },
+    {
+        "name": "Myanmar",
+        "flag": "https://mahando.com/Flags/mm.png",
+        "number": "+95"
+    },
+    {
+        "name": "Namibia",
+        "flag": "https://mahando.com/Flags/na.png",
+        "number": "+264"
+    },
+    {
+        "name": "Nauru",
+        "flag": "https://mahando.com/Flags/nr.png",
+        "number": "+674"
+    },
+    {
+        "name": "Nepal",
+        "flag": "https://mahando.com/Flags/np.png",
+        "number": "+977"
+    },
+    {
+        "name": "Netherlands",
+        "flag": "https://mahando.com/Flags/nl.png",
+        "number": "+31"
+    },
+    {
+        "name": "New Caledonia",
+        "flag": "https://mahando.com/Flags/nc.png",
+        "number": "+687"
+    },
+    {
+        "name": "New Zealand",
+        "flag": "https://mahando.com/Flags/nz.png",
+        "number": "+64"
+    },
+    {
+        "name": "Nicaragua",
+        "flag": "https://mahando.com/Flags/ni.png",
+        "number": "+505"
+    },
+    {
+        "name": "Niger",
+        "flag": "https://mahando.com/Flags/ne.png",
+        "number": "+227"
+    },
+    {
+        "name": "Nigeria",
+        "flag": "https://mahando.com/Flags/ng.png",
+        "number": "+234"
+    },
+    {
+        "name": "Niue",
+        "flag": "https://mahando.com/Flags/nu.png",
+        "number": "+683"
+    },
+    {
+        "name": "Norfolk Island",
+        "flag": "https://mahando.com/Flags/nf.png",
+        "number": "+672"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "flag": "https://mahando.com/Flags/mp.png",
+        "number": "+1670"
+    },
+    {
+        "name": "Norway",
+        "flag": "https://mahando.com/Flags/no.png",
+        "number": "+47"
+    },
+    {
+        "name": "Oman",
+        "flag": "https://mahando.com/Flags/om.png",
+        "number": "+968"
+    },
+    {
+        "name": "Pakistan",
+        "flag": "https://mahando.com/Flags/pk.png",
+        "number": "+92"
+    },
+    {
+        "name": "Palau",
+        "flag": "https://mahando.com/Flags/pw.png",
+        "number": "+680"
+    },
+    {
+        "name": "Panama",
+        "flag": "https://mahando.com/Flags/pa.png",
+        "number": "+507"
+    },
+    {
+        "name": "Papua New Guinea",
+        "flag": "https://mahando.com/Flags/pg.png",
+        "number": "+675"
+    },
+    {
+        "name": "Paraguay",
+        "flag": "https://mahando.com/Flags/py.png",
+        "number": "+595"
+    },
+    {
+        "name": "Peru",
+        "flag": "https://mahando.com/Flags/pe.png",
+        "number": "+51"
+    },
+    {
+        "name": "Philippines",
+        "flag": "https://mahando.com/Flags/ph.png",
+        "number": "+63"
+    },
+    {
+        "name": "Pitcairn",
+        "flag": "https://mahando.com/Flags/pn.png",
+        "number": "+870"
+    },
+    {
+        "name": "Poland",
+        "flag": "https://mahando.com/Flags/pl.png",
+        "number": "+48"
+    },
+    {
+        "name": "Portugal",
+        "flag": "https://mahando.com/Flags/pt.png",
+        "number": "+351"
+    },
+    {
+        "name": "Puerto Rico",
+        "flag": "https://mahando.com/Flags/pr.png",
+        "number": "+1939"
+    },
+    {
+        "name": "Qatar",
+        "flag": "https://mahando.com/Flags/qa.png",
+        "number": "+974"
+    },
+    {
+        "name": "Réunion",
+        "flag": "https://mahando.com/Flags/re.png",
+        "number": "+262"
+    },
+    {
+        "name": "Romania",
+        "flag": "https://mahando.com/Flags/ro.png",
+        "number": "+40"
+    },
+    {
+        "name": "Rwanda",
+        "flag": "https://mahando.com/Flags/rw.png",
+        "number": "+250"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "flag": "https://mahando.com/Flags/kn.png",
+        "number": "+1869"
+    },
+    {
+        "name": "Saint Lucia",
+        "flag": "https://mahando.com/Flags/lc.png",
+        "number": "+1758"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "flag": "https://mahando.com/Flags/pm.png",
+        "number": "+508"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "flag": "https://mahando.com/Flags/vc.png",
+        "number": "+1784"
+    },
+    {
+        "name": "Samoa",
+        "flag": "https://mahando.com/Flags/ws.png",
+        "number": "+685"
+    },
+    {
+        "name": "San Marino",
+        "flag": "https://mahando.com/Flags/sm.png",
+        "number": "+378"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "flag": "https://mahando.com/Flags/st.png",
+        "number": "+239"
+    },
+    {
+        "name": "Saudi Arabia",
+        "flag": "https://mahando.com/Flags/sa.png",
+        "number": "+966"
+    },
+    {
+        "name": "Senegal",
+        "flag": "https://mahando.com/Flags/sn.png",
+        "number": "+221"
+    },
+    {
+        "name": "Serbia",
+        "flag": "https://mahando.com/Flags/rs.png",
+        "number": "+381"
+    },
+    {
+        "name": "Seychelles",
+        "flag": "https://mahando.com/Flags/sc.png",
+        "number": "+248"
+    },
+    {
+        "name": "Sierra Leone",
+        "flag": "https://mahando.com/Flags/sl.png",
+        "number": "+232"
+    },
+    {
+        "name": "Singapore",
+        "flag": "https://mahando.com/Flags/sg.png",
+        "number": "+65"
+    },
+    {
+        "name": "Slovakia",
+        "flag": "https://mahando.com/Flags/sk.png",
+        "number": "+421"
+    },
+    {
+        "name": "Slovenia",
+        "flag": "https://mahando.com/Flags/si.png",
+        "number": "+386"
+    },
+    {
+        "name": "Solomon Islands",
+        "flag": "https://mahando.com/Flags/sb.png",
+        "number": "+677"
+    },
+    {
+        "name": "Somalia",
+        "flag": "https://mahando.com/Flags/so.png",
+        "number": "+252"
+    },
+    {
+        "name": "South Africa",
+        "flag": "https://mahando.com/Flags/za.png",
+        "number": "+27"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "flag": "https://mahando.com/Flags/gs.png",
+        "number": "+500"
+    },
+    {
+        "name": "Spain",
+        "flag": "https://mahando.com/Flags/es.png",
+        "number": "+34"
+    },
+    {
+        "name": "Sri Lanka",
+        "flag": "https://mahando.com/Flags/lk.png",
+        "number": "+94"
+    },
+    {
+        "name": "Sudan",
+        "flag": "https://mahando.com/Flags/sd.png",
+        "number": "+249"
+    },
+    {
+        "name": "Suriname",
+        "flag": "https://mahando.com/Flags/sr.png",
+        "number": "+597"
+    },
+    {
+        "name": "Swaziland",
+        "flag": "https://mahando.com/Flags/sz.png",
+        "number": "+268"
+    },
+    {
+        "name": "Sweden",
+        "flag": "https://mahando.com/Flags/se.png",
+        "number": "+46"
+    },
+    {
+        "name": "Switzerland",
+        "flag": "https://mahando.com/Flags/ch.png",
+        "number": "+41"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "flag": "https://mahando.com/Flags/sy.png",
+        "number": "+963"
+    },
+    {
+        "name": "Taiwan",
+        "flag": "https://mahando.com/Flags/tw.png",
+        "number": "+886"
+    },
+    {
+        "name": "Tajikistan",
+        "flag": "https://mahando.com/Flags/tj.png",
+        "number": "+992"
+    },
+    {
+        "name": "Tanzania United Republic Of",
+        "flag": "https://mahando.com/Flags/tz.png",
+        "number": "+255"
+    },
+    {
+        "name": "Thailand",
+        "flag": "https://mahando.com/Flags/th.png",
+        "number": "+66"
+    },
+    {
+        "name": "Timor-Leste",
+        "flag": "https://mahando.com/Flags/tl.png",
+        "number": "+670"
+    },
+    {
+        "name": "Togo",
+        "flag": "https://mahando.com/Flags/tg.png",
+        "number": "+228"
+    },
+    {
+        "name": "Tokelau",
+        "flag": "https://mahando.com/Flags/tk.png",
+        "number": "+690"
+    },
+    {
+        "name": "Tonga",
+        "flag": "https://mahando.com/Flags/to.png",
+        "number": "+676"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "flag": "https://mahando.com/Flags/tt.png",
+        "number": "+1868"
+    },
+    {
+        "name": "Tunisia",
+        "flag": "https://mahando.com/Flags/tn.png",
+        "number": "+216"
+    },
+    {
+        "name": "Turkey",
+        "flag": "https://mahando.com/Flags/tr.png",
+        "number": "+90"
+    },
+    {
+        "name": "Turkmenistan",
+        "flag": "https://mahando.com/Flags/tm.png",
+        "number": "+993"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "flag": "https://mahando.com/Flags/tc.png",
+        "number": "+1649"
+    },
+    {
+        "name": "Tuvalu",
+        "flag": "https://mahando.com/Flags/tv.png",
+        "number": "+688"
+    },
+    {
+        "name": "Uganda",
+        "flag": "https://mahando.com/Flags/ug.png",
+        "number": "+256"
+    },
+    {
+        "name": "Ukraine",
+        "flag": "https://mahando.com/Flags/ua.png",
+        "number": "+380"
+    },
+    {
+        "name": "United Arab Emirates",
+        "flag": "https://mahando.com/Flags/ae.png",
+        "number": "+971"
+    },
+    {
+        "name": "United Kingdom",
+        "flag": "https://mahando.com/Flags/uk.png",
+        "number": "+44"
+    },
+    {
+        "name": "United States",
+        "flag": "https://mahando.com/Flags/us.png",
+        "number": "+1"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "flag": "https://mahando.com/Flags/um.png",
+        "number": "+1581"
+    },
+    {
+        "name": "Uruguay",
+        "flag": "https://mahando.com/Flags/uy.png",
+        "number": "+598"
+    },
+    {
+        "name": "Uzbekistan",
+        "flag": "https://mahando.com/Flags/uz.png",
+        "number": "+998"
+    },
+    {
+        "name": "Vanuatu",
+        "flag": "https://mahando.com/Flags/vu.png",
+        "number": "+678"
+    },
+    {
+        "name": "Viet Nam",
+        "flag": "https://mahando.com/Flags/vn.png",
+        "number": "+84"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "flag": "https://mahando.com/Flags/wf.png",
+        "number": "+681"
+    },
+    {
+        "name": "Yemen",
+        "flag": "https://mahando.com/Flags/ye.png",
+        "number": "+967"
+    },
+    {
+        "name": "Zambia",
+        "flag": "https://mahando.com/Flags/zm.png",
+        "number": "+260"
+    },
+    {
+        "name": "Zimbabwe",
+        "flag": "https://mahando.com/Flags/zw.png",
+        "number": "+263"
+    }
+]
